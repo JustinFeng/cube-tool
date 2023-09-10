@@ -54,7 +54,7 @@ export default function Index() {
   }
 
   return (
-    <main className='flex min-h-screen flex-col items-center justify-between p-24'>
+    <main className='flex min-h-screen flex-col items-center justify-between p-16'>
       <div className='w-64'>
         <label
           htmlFor='price'
